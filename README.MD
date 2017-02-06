@@ -1,1 +1,1 @@
-Fork Sublime Text Critic Markup package
+[**Critic Markup**](http://criticmarkup.com/sublime-text.php) package for [**Package Control**](https://packagecontrol.io/). Works only in Sublime Text 3.
